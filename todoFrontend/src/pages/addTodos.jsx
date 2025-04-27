@@ -29,7 +29,7 @@ export function AddTodos(){
                 }
             })
             } catch (error) {
-                console.log('error in adding the todo')   
+                console.log('error in adding the todo')
             }
         }
     
